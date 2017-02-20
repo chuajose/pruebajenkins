@@ -1,5 +1,4 @@
 <?php
- header("Access-Control-Allow-Origin: *");
 
 //Inicializamos variables por defecto para datos del formulario
 $referido="Web Circulo Gacela";
